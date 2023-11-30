@@ -87,11 +87,9 @@ else:
     print("Element found at index: ",result)
 ```
 ## Output
-![Alt text](<Screenshot 2023-11-29 234848.png>)
-![Alt text](<Screenshot 2023-11-29 234950.png>)
-![Alt text](<Screenshot 2023-11-29 235054.png>)
-
-
+![Alt text](1.png)
+![Alt text](2.png)
+![Alt text](3.png)
 
 
 
